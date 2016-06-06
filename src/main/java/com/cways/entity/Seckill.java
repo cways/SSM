@@ -1,7 +1,5 @@
 package com.cways.entity;
 
-import sun.plugin2.os.windows.SECURITY_ATTRIBUTES;
-
 import java.util.Date;
 
 /**

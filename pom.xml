@@ -61,10 +61,11 @@
             <version>1.2.3</version>
         </dependency>
         <!--servlet web相关依赖-->
+        <!-- http://mvnrepository.com/artifact/org.apache.taglibs/taglibs-standard-impl -->
         <dependency>
             <groupId>org.apache.taglibs</groupId>
-            <artifactId>taglibs-standard</artifactId>
-            <version>1.2.1</version>
+            <artifactId>taglibs-standard-impl</artifactId>
+            <version>1.2.5</version>
         </dependency>
         <dependency>
             <groupId>jstl</groupId>
